@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,mysql,git,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,mysql,git,html,css)](https://skillicons.dev)
 
 <!--
 **leandro-bcamargo/leandro-bcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
