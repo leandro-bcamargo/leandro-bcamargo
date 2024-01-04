@@ -1,5 +1,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,mysql,html,css)](https://skillicons.dev)
 
+- Desenvolvedor Web Full-Stack. Atualmente fazendo projetos que envolvam back-end em Javascript ou Typescript com Node e Express, bem como com o ORM Sequelize.
+  
+- Além disso, estou aprendendo fundamentos de Java e pretendo começar a fazer projetos usando Spring Boot em breve.
+
+- Contato: Email: leandro.bcamargo@gmail.com
+  
 <!--
 **leandro-bcamargo/leandro-bcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
